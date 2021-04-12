@@ -20,6 +20,8 @@ A first person freerunner set on a pink paradise island, built in Unity that run
 
 # Versions
 
+You can run Pink Paradise Island in your browser with WebGL however you will get a much better experience (higher FPS and better textures) using the native Windows, MacOS or Linux apps.
+
 ## WebGL
 You can view Pink Paradise Island online using the link below. 
 
