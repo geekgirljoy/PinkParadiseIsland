@@ -2,7 +2,10 @@
 Unity, WebGL, Windows, MacOS, Linux, First Person, Island, Freerunner
 
 ## Description
-Lorem ipsum...
+A first person freerunner set on a pink paradise island, built in Unity that runs on the WebGL, Windows, MacOS and Linux platforms.
+#### Run In Browser: [Pink Paradise Island](https://geekgirljoy.github.io/PinkParadiseIsland/WebGL/index.html)
+
+
 
 ## Controls
 
