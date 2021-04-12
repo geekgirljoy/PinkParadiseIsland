@@ -4,8 +4,6 @@ Unity, WebGL, Windows, MacOS, Linux, First Person, Island, Freerunner
 ## Description
 A first person freerunner set on a pink paradise island, built in Unity that runs on the WebGL, Windows, MacOS and Linux platforms.
 
-#### Run In Browser: [Pink Paradise Island](https://geekgirljoy.github.io/PinkParadiseIsland/WebGL/index.html)
-
 ## Controls
 
 **Movement:** WASD Keys or Arrow Keys
@@ -15,7 +13,6 @@ A first person freerunner set on a pink paradise island, built in Unity that run
 **Jump:** Space Bar
 
 **Menu:** Escape Key
-
 
 # Versions
 
