@@ -1,6 +1,8 @@
 # Pink Paradise Island
 Unity, WebGL, Windows, MacOS, Linux, First Person, Island, Freerunner
 
+![PinkParadiseIsland_1920x1080_Wallpaper.png](https://raw.githubusercontent.com/geekgirljoy/PinkParadiseIsland/main/Misc/PinkParadiseIsland_1920x1080_Wallpaper.png)
+
 ## Description
 A first person freerunner set on a pink paradise island, built in Unity that runs on the WebGL, Windows, MacOS and Linux platforms.
 
