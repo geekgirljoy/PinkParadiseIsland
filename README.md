@@ -3,9 +3,8 @@ Unity, WebGL, Windows, MacOS, Linux, First Person, Island, Freerunner
 
 ## Description
 A first person freerunner set on a pink paradise island, built in Unity that runs on the WebGL, Windows, MacOS and Linux platforms.
+
 #### Run In Browser: [Pink Paradise Island](https://geekgirljoy.github.io/PinkParadiseIsland/WebGL/index.html)
-
-
 
 ## Controls
 
@@ -44,7 +43,7 @@ Run the **Pink Paradise Island.exe** file.
 Mac users can run the MacOS.app file to um... install?? the app? I'm sorry it's been a long time since I've used a Mac but if anyone cares to write me notes on the experience I will include them here with credit to the source.
 
 ## Linux
-Linux is an arcane tome read by few and understood by fewer still and should you need a little help getting this running here's a little pro tip, you're looking for the file PinkParadiseIsland.x86_64 and you need to tell Linux to run the file as a 
+Linux is an arcane tome read by few and understood by fewer still and should you need a little help getting this running here's a little pro tip, you're looking for the file PinkParadiseIsland.x86_64 and you need to tell Linux to run the file as an executable.
 
 ### Perfunctory Guide to Making PinkParadiseIsland.x86_64 Run as an Executable
 
