@@ -56,3 +56,10 @@ Linux is an arcane tome read by few and understood by fewer still and should you
 
 ## Licence
 ###### [Project License](LICENSE)
+
+
+## Support
+If you like this project consider supporting me through [Patreon](https://www.patreon.com/GeekGirlJoy), if not no worries.
+
+
+
