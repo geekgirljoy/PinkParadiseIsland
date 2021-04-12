@@ -1,4 +1,4 @@
-# PinkParadiseIsland
+# Pink Paradise Island
 Unity, WebGL, Windows, macOS, Linux, First Person, Island, Freerunner
 
 ## Description
