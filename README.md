@@ -30,8 +30,12 @@ Linux is an arcane tome read by few and understood by fewer still and should you
 
 ### Perfunctory Guide to Making PinkParadiseIsland.x86_64 Run as an Executable
 
-
-
+1. **Right Click** the **PinkParadiseIsland.x86_64** file.
+2. Select **'Properties'**.
+3. Go to the **'Permissions'** tab.
+4. Check **'Allow executing this file as a program'**.
+5. Close the dialog.
+6. **Double Click** the **PinkParadiseIsland.x86_64** file to run it.
 
 
 ## Licence
