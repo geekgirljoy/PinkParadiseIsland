@@ -4,6 +4,17 @@ Unity, WebGL, Windows, MacOS, Linux, First Person, Island, Freerunner
 ## Description
 Lorem ipsum...
 
+## Controls
+
+**Movement:** WASD Keys or Arrow Keys
+
+**Run:** Left Shift
+
+**Jump:** Space Bar
+
+**Menu:** Escape Key
+
+
 # Versions
 
 ## WebGL
